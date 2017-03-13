@@ -1,5 +1,6 @@
 #!/bin/sh
- 
+
+# Don't forget to change email and drives parameters below to your own
 ### Parameters ###
 logfile="/tmp/smart_report.tmp"
 email="your_email@gmail.com"
